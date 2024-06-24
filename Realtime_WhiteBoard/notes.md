@@ -1,38 +1,17 @@
 # Day-1
 ## Agenda
 * Project Demo
-* Template -> How to write about your project in your resume
 * foundational knowledge 
 * code the core logic of the project
 * FAQ in your interviews
 
-**Journey** -> 
-  * 2 projects -> Resume write 
-  * How write about that project
-  * How to explain 
-  * Questions -> Interviews 
-
-**Projects**[4 classes -> 2 projects]
+**Projects**
 * `Real time Whiteboard`
   * Dev orientend
   * Realworld concepts
   * DSA -> stacks 
-* `Excel clone` 
-  * UI
-  * DSA heavy project -> formula
 
-**Pointers for adding Project in your Resume** 
-* Crisp Explaination in pointer
-* Github code 
-* Deployed version
-
-**Template for how to write about your Project**
-* What is the Project , tech stack ??
-* What are the features
-* If there any special pointer
   
-
-![](resume.png)
 
 ### facts
 * Enviornment -> [features]  browser  -> document
@@ -81,19 +60,7 @@
   * undo -> 
     * last point remove storage 
     * redraw
-* 
-
-
-
-
-
-
-## Browser
-document
-event listner
-canvas
-URL 
-
+  
 
 
 
