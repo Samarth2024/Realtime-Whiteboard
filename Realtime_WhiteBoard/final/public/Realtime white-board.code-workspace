@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../Realtime white-board"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "final"
+	}
+}
